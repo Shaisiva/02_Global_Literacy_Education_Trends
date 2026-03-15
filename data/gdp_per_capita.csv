@@ -1,0 +1,19 @@
+Entity,Code,Year,GDP per capita (constant 2015 US$)
+India,IND,2000,1122
+India,IND,2010,2144
+India,IND,2020,3214
+United States,USA,2000,43234
+United States,USA,2010,48456
+United States,USA,2020,51592
+Brazil,BRA,2000,8821
+Brazil,BRA,2010,11234
+Brazil,BRA,2020,12134
+China,CHN,2000,3432
+China,CHN,2010,9334
+China,CHN,2020,15234
+Nigeria,NGA,2000,1543
+Nigeria,NGA,2010,2234
+Nigeria,NGA,2020,2089
+World,,2000,9876
+World,,2010,11234
+World,,2020,12345

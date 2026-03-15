@@ -1,0 +1,19 @@
+Entity,Code,Year,Literacy rate, youth male (% of males ages 15-24),Literacy rate, youth female (% of females ages 15-24)
+India,IND,2000,76.9,64.3
+India,IND,2010,87.2,77.2
+India,IND,2020,92.2,87.2
+United States,USA,2000,99.0,99.0
+United States,USA,2010,99.0,99.0
+United States,USA,2020,99.0,99.0
+Brazil,BRA,2000,94.2,94.5
+Brazil,BRA,2010,98.2,98.5
+Brazil,BRA,2020,99.0,99.0
+China,CHN,2000,98.9,98.5
+China,CHN,2010,99.5,99.4
+China,CHN,2020,99.7,99.7
+Nigeria,NGA,2000,76.5,61.2
+Nigeria,NGA,2010,72.1,58.3
+Nigeria,NGA,2020,75.0,62.0
+World,,2000,89.2,83.1
+World,,2010,91.0,86.2
+World,,2020,92.5,88.0

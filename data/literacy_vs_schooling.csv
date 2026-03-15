@@ -1,0 +1,19 @@
+Entity,Code,Year,Average years of schooling (Lee-Lee (2016))
+India,IND,2000,4.5
+India,IND,2010,5.8
+India,IND,2020,6.8
+United States,USA,2000,12.2
+United States,USA,2010,12.5
+United States,USA,2020,13.0
+Brazil,BRA,2000,6.2
+Brazil,BRA,2010,7.5
+Brazil,BRA,2020,8.2
+China,CHN,2000,6.4
+China,CHN,2010,7.8
+China,CHN,2020,9.2
+Nigeria,NGA,2000,4.2
+Nigeria,NGA,2010,5.1
+Nigeria,NGA,2020,5.5
+World,,2000,6.8
+World,,2010,7.5
+World,,2020,8.2
