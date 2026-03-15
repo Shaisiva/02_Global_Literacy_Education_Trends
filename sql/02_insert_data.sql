@@ -1,0 +1,6 @@
+-- Insert data is generated from cleaned CSVs via Python (src/db_utils.py or Streamlit).
+-- Run from project root:
+--   python -c "from src.db_utils import init_db_from_cleaned_data; init_db_from_cleaned_data()"
+-- Or use Streamlit "SQL Executor" after loading data; the app can create SQLite DB from data/ CSVs.
+-- For manual INSERTs, export cleaned CSVs to INSERT statements with:
+--   pandas.DataFrame.to_sql(..., method='multi') or a custom script that writes INSERT INTO ... VALUES (...);
